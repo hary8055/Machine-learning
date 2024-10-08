@@ -1,1 +1,1 @@
-
+Customer churn prediction involves identifying customers who are likely to stop using a product or service. Machine learning models can help businesses predict churn by analyzing customer behavior patterns, transaction data, and other relevant features. In this context, we can use models like K-Nearest Neighbors (KNN), Decision Tree, and Random Forest to predict churn based on historical customer data.

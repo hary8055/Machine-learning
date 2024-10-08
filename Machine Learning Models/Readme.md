@@ -1,1 +1,1 @@
-
+This repository contains sample application of machine learning models such as Logistic Regression, Multiple Linear Regression, Random Forest Classifier, Simple linear regression, Support Vector Machines, Heirarchichal Clustering and KMeans Clustering.

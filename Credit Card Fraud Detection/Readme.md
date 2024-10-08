@@ -1,1 +1,1 @@
-Credit cards transaction anomaly detecttion using statistical methods
+Credit cards transaction anomaly detection using statistical methods
